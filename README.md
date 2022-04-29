@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ajay-sys2-tech
+- 👋 Hi, I’m Ajay
 - 👀 I’m interested in Web Development, DevOps and Cloud Computing
-- 🌱 I’m currently learning Web Development on cloud
+- 🌱 I’m currently learning Web Development and Cloud 
 - 💞️ I’m looking to collaborate on Web Development, DevOps and Cloud Computing
 - 📫 How to reach me ...
      email: ajaycu23@gmail.com
